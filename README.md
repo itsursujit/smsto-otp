@@ -1,4 +1,5 @@
 ## Minimum Requirement
+- PHP 7.0+
 - Redis extension for php
 
 ## Install the package
